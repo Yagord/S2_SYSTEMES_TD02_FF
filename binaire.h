@@ -1,0 +1,1 @@
+unsigned long long binaire(unsigned long long);
