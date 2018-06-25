@@ -1,0 +1,1 @@
+void affcihe_ascii(char deb, char fin);

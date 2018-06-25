@@ -1,0 +1,2 @@
+void conversionDécimalBinaireNonSigne();
+void conversionDécimalBinaireSigne();
